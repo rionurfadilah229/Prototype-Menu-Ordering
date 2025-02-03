@@ -7,6 +7,10 @@ export const menuData = {
       { id: 'soto-kikil', name: 'Soto Kikil', price: 20000, image: 'https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/66169278-306c-4cce-884e-0f186178a989_Go-Biz_20220323_125602.jpeg' },
       { id: 'soto-usus', name: 'Soto Usus', price: 20000, image: 'https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/66169278-306c-4cce-884e-0f186178a989_Go-Biz_20220323_125602.jpeg' },
       { id: 'soto-ayam', name: 'Soto Ayam', price: 20000, image: 'https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/66169278-306c-4cce-884e-0f186178a989_Go-Biz_20220323_125602.jpeg' },
+      { id: 'soto-mix', name: 'Soto Mix Daging-Paru', price: 20000, image: 'https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/66169278-306c-4cce-884e-0f186178a989_Go-Biz_20220323_125602.jpeg' },
+      { id: 'soto-mix', name: 'Soto Mix Daging-Babat', price: 20000, image: 'https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/66169278-306c-4cce-884e-0f186178a989_Go-Biz_20220323_125602.jpeg' },
+      { id: 'soto-mix', name: 'Soto Mix Daging-Kikil', price: 20000, image: 'https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/66169278-306c-4cce-884e-0f186178a989_Go-Biz_20220323_125602.jpeg' },
+      { id: 'soto-mix', name: 'Soto Mix Daging-usus', price: 20000, image: 'https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/66169278-306c-4cce-884e-0f186178a989_Go-Biz_20220323_125602.jpeg' },
       { id: 'nasi', name: 'Nasi', price: 5000, image: 'https://media.istockphoto.com/id/1159969320/id/foto/nasi-putih-dengan-bawang-goreng.jpg?s=1024x1024&w=is&k=20&c=UCyrCvPPV4eAS8kocnVAflVXR4Pb5IDISjrDAR2ot_c=' },
     ],
     drinks: [
